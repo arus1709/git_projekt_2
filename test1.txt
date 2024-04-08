@@ -1,1 +1,1 @@
-tak dla 
+print('hello world')
